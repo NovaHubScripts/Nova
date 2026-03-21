@@ -19,7 +19,7 @@ local Config = {
             ScriptID = "a423101eaff5bc0fd10d9c0b016fe64b"
         },
         [7449423635] = {
-           Name = "Blox fruits"
+           Name = "Blox fruits",
            ScriptID = "02f566209eec8c9e9ecab64d65f494de"
         },
     }
