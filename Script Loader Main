@@ -14,6 +14,10 @@ local Config = {
             Name = "Escape Tsunami For Brainrot!",
             ScriptID = "9392c6336e05a60f4136ad06bfbd873a"
         },
+        [137629155365661] = {
+            Name = "Escape Tsunami For Brainrot!",
+            ScriptID = "9392c6336e05a60f4136ad06bfbd873a"
+        },
         [119987266683883] = {
             Name = "Escape Lava for Brainrots",
             ScriptID = "a423101eaff5bc0fd10d9c0b016fe64b"
